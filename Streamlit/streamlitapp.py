@@ -55,4 +55,3 @@ if inv_no:
     st.header("Output by Invoice ID")
     table2 = st.dataframe(data=reindexed) 
 
-
