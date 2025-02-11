@@ -4,7 +4,7 @@
 This project is a **real-time document streaming pipeline** that processes structured data from CSV files, transforms it into JSON, and streams it through a series of technologies, including **FastAPI, Kafka, Apache Spark, MongoDB, and Streamlit**. The objective is to facilitate real-time data ingestion, processing, storage, and visualization for business insights.
 
 ## 📷 Architecture Diagram
-![Architecture Diagram](docs/architecture_diagram-.png)
+![Architecture Diagram](docs/architecture_diagram.png)
 
 ## ⚙️ Services & Technologies Used
 - **FastAPI** – Acts as an ingestion API to receive and process incoming JSON data.
